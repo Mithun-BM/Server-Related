@@ -1,7 +1,0 @@
-
-
-Running JBoss server by passing server arguments
-
-Step 1 - Go to standalone.sh
-
-Step 2 - Provide the required arguments under --> SERVER_OPTS=
